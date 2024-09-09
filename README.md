@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product Card challenge on Frontend Mentor](). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -15,8 +15,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- [Solution](https://github.com/osamaaabdullah/4-recipe-page)
-- [Live Site](https://osamaaabdullah.github.io/4-recipe-page/)
+- [Solution]()
+- [Live Site](https://osamaaabdullah.github.io/5-product-preview-card/)
 
 ## My process
 
